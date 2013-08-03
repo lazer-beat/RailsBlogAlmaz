@@ -1,0 +1,4 @@
+RailsBlogAlmaz
+==============
+
+Rails project blog
